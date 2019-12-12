@@ -1,0 +1,32 @@
+<html>
+<head>
+  <title>My Hoddies</title>
+  </head>
+  <body>
+    <table border="1">
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>More Info</th>
+    </tr>
+    
+  <tr>
+    <td>Sneaker Shopping</td>
+    <td>I go to stores to go see sneakers and collect them</td>
+    <td><a href="https://www.atmos-tokyo.com/">Atmos</a></td>
+</tr>
+      
+      <tr>
+        <td>Anime</td>
+        <td>I watch Japanese animatons on my freetime</td>
+        <td><a href="https://en.wikipedia.org/wiki/Anime">Wikipedia</a></td>
+      </tr>
+      
+      <tr>
+        <td>Music</td>
+        <td> I listen to music especially Rap and R&B</td>
+        <td><a href="https://en.wikipedia.org/wiki/Hip_hop">Wikipedia</a></td>
+      </tr>
+    </table>
+  </body>
+</html>

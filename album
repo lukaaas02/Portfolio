@@ -1,0 +1,43 @@
+
+<html>
+
+	
+<head>
+<title>My Favourite Albums </title>
+
+</head>
+
+<style type="text/css" media="screen">
+ul{
+	list-style-image: url("icons8-cd-50.png");
+	
+	}
+	
+img {
+float: right;
+
+}
+
+<body>
+
+<h3> My Favourite Albums </h3>
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</body>
+	
+</html>
+
